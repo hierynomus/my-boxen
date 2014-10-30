@@ -6,7 +6,9 @@ class people::hierynomus {
   include iterm2::dev
   include iterm2::colors::solarized_dark
   include iterm2::colors::solarized_light
+  include sublime_text
 
+  
 
   # $home     = "/Users/${::boxen_user}"
   # $my       = "${home}/my"
