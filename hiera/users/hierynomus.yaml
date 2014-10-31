@@ -1,0 +1,4 @@
+---
+
+hierynomusCode: "/Users/%{::boxen_user}/src/hierynomus"
+xebialabsCode: "/Users/%{::boxen_user}/src/xebialabs"
