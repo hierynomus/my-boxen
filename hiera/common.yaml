@@ -1,0 +1,3 @@
+---
+
+xebialabs::environment::repositories::sourceDir: "/Users/%{::boxen_user}/src/xebialabs"
